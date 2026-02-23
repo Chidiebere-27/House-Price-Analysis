@@ -1,9 +1,9 @@
-House Price Prediction (R)
-Overview
+**House Price Prediction (R)
+Overview**
 
 This project analyses housing data and builds predictive models to estimate house prices using R. It combines exploratory data analysis, statistical testing, and multivariate linear regression to identify key price drivers.
 
-Key Features
+**Key Features**
 
 Data visualisation (scatter plots, histograms, boxplots)
 
@@ -19,7 +19,7 @@ Model diagnostics (VIF, Cook’s Distance, leverage, residuals)
 
 Price prediction on test dataset
 
-Final Model
+**Final Model**
 
 A simplified regression model using:
 
@@ -29,6 +29,6 @@ Year Built
 
 Lot Size
 
-Skills Demonstrated
+**Skills Demonstrated**
 
 Data analysis • Statistical modelling • Model optimisation • Diagnostic testing • Predictive analytics • R programming
