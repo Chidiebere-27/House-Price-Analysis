@@ -23,3 +23,6 @@ Lot Size
 **Skills Demonstrated**
 
 Data analysis • Statistical modelling • Model optimisation • Diagnostic testing • Predictive analytics • R programming
+
+this project is highlighted and presented using Microsoft powerpoint.
+https://portdotacdotuk-my.sharepoint.com/:p:/r/personal/up2243582_myport_ac_uk/Documents/houseprice.presentation%20(1).pptx?d=wb14eab69689f41bb819596ea445f7f7b&csf=1&web=1&e=Vf5g6h
